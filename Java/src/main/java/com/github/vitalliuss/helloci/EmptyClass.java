@@ -14,5 +14,4 @@ public class EmptyClass {
 	public static void unusedMethod() {
 		// do not use it
 	}
-
 }
