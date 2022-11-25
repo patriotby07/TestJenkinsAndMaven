@@ -39,4 +39,5 @@ public class AppTest {
 	public void testEmptyClass() {
 		EmptyClass.unusedMethod();
 	}
+
 }
